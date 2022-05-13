@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vijay Choudhary</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptyvijay&label=Profile%20views&color=0e75b6&style=flat" alt="scriptyvijay" /> </p>
-
-<p align="left"> <a href="https://twitter.com/scriptyvijay" target="blank"><img src="https://img.shields.io/twitter/follow/scriptyvijay?logo=twitter&style=for-the-badge" alt="scriptyvijay" /></a> </p>
-
 - 🔭 I’m currently working on [Eracoms](https://www.eracoms.com)
 
 - 🌱 I’m currently learning **React and UI/UX**
