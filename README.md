@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.dailytehienews.com/about](https://www.dailytehienews.com/about)
 
-- ⚡ Fun fact **I'm a piano player & YouTuber**
+- ⚡ Fun fact **I'm a piano player**
 
 
 <h3 align="left">Connect with me:</h3>
