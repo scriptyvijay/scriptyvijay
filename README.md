@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vijay Choudhary</h1>
+<h1 align="center">Hi, I'm Vijay Choudhary</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on [Eracoms](https://www.eracoms.com)
