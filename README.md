@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eracoms](https://www.eracoms.com)
 
-- 🌱 I’m currently learning **React and UI/UX**
+- 🌱 I’m currently learning **ReactJS and UI/UX**
 
 - 👨‍💻 All of my projects are available at [scriptyvijay.com/aboutme](scriptyvijay.com/aboutme)
 
