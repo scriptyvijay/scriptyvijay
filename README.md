@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vijay Choudhary</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/scriptyvijay/scriptyvijay/blob/master/devcard.svg" width="400" alt="Vijay Choudhary Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/scriptyvijay/scriptyvijay/blob/main/devcard.svg" width="300" align="right" alt="Chris Bongers's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on [Eracoms](https://www.eracoms.com)
