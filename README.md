@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express and Databases**
 
-- 👨‍💻 All of my projects are available at [scriptyvijay.com/aboutme](scriptyvijay.com/aboutme)
+- 👨‍💻 All of my projects are available at [vijaychoudhary.me/aboutme](scriptyvijay.com/aboutme)
 
 - 📝 I regularly write articles on [https://www.dailytehienews.com](https://www.dailytehienews.com)
 
